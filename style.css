@@ -1,0 +1,25 @@
+body{
+    background-color: #2a5d5a;
+    
+}
+.a{
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(32, 11, 11);
+    color: white;
+    margin: 30px 441px;
+}
+.box{
+    background-color: black;    
+    border: 10px solid red;
+    padding: 50px;
+    margin: 100px 220px;
+    
+}
+p{
+    background-color: #1fe8b7;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 54px 40px;
+    
+}
